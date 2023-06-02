@@ -4,8 +4,12 @@ date = "2023-06-02"
 draft = true
 pinned = false
 tags = ["Deutsche", "Reportage"]
+image = "nubelson-fernandes-xx4i6wg6heg-unsplash.jpg"
 description = ""
+footnotes = ""
 +++
+![](nubelson-fernandes-xx4i6wg6heg-unsplash.jpg)
+
 {{<lead>}}
 Prokrastination, extremes Aufschieben, eine Störung der Selbststeuerung. Was ist das genau und wie kommt es dazu? Diesen und noch weiteren Fragen sind wir auf den Grund gegangen. Psychologe Roger Schweizer sowie Justus  äussern Ihr Wissen zugunsten dieser Reportage und teilen Ihre Erfahrungen.
 Von Dominique Boksberger und Amélie Scheidegger 
@@ -13,11 +17,19 @@ Von Dominique Boksberger und Amélie Scheidegger
 
 Solche Situationen erleben viele Menschen, welche aufgrund des Prokrastinierens unter Stress geraten, Arbeiten und Aufgaben noch rechtzeitig zu erledigen. Bei den meisten halten sich die Folgen des Prokrastinierens noch im Mass, doch andere leiden unter schwerwiegenden Folgen. Die Trennung der Freizeit und Arbeit gelingt nicht mehr und man fällt in einen Dauerstress. Prokrastination kann einen Menschen psychisch und physisch so auf die Probe stellen, dass man in Aufgaben versinkt, Fristen nicht länger einhalten kann und im schlimmsten Fall gekündigt wird. Diese Menschen leiden an chronischer Prokrastination und sollten sich Hilfe holen. Wie kann man aufhören, sich vor Arbeiten zu drücken und sich einen Ruck geben und endlich anzufangen? Wie kommt es zu diesem starken Aufschiebe-Problem und welche Menschen sind besonders davon betroffen?
 
+![Abbildung 1](bild2.png "Justus Homescreen")
+
+*Justus, 15.04.2023[](https://www.lilo.blog)*
+
 ## **Wie ist der Alltag einer prokrastinierenden Person?**
 
 Justus (19) ist ein Student der Universität Bern und studiert Pharmazie im zweiten Semester. In seinem Alltag erlebt er immer wieder Auswirkungen, die durch die Prokrastination erschienen sind. Um die Lage der Personen, die prokrastinieren besser zu verstehen, haben wir ein Interview mit ihm geführt. 
 
 „Schwer zu sagen, wann prokrastinieren bei mir das erste Mal aktiv auftrat. Die Motivation fürs Lernen war lange nie präsent“, meinte Justus. Er schildert uns, dass er bereits in der Oberstufe gemerkt habe, dass er hin und wieder Hausaufgaben aufgeschoben oder, gar nicht erst gelöst hätte. Nach dem Übertritt ins Gymnasium stellte er schnell fest, dass er bei Fächern, welche ihn nur gering interessierten, abhängte. Da im Gymnasium viel mehr von ihm gefordert wurde als in der Oberstufe, sowie auch das Risiko bestand, in der Schule durchzufallen, sah er immer deutlicher, wie stark er vom Prokrastinieren betroffen war. Er fühlte sich immer wieder unter Druck gesetzt, da es ihm immer seltener gelang, Arbeiten zeitgerecht zu erledigen. Seinen Tiefpunkt erlitt Justus drei Wochen vor dem Abgabetermin seiner Maturaarbeit. Den praktischen Teil hatte er schon im Voraus erledigt, da dieser Teil ihm viel Spass bereitete. Doch der schriftliche Teil lies er auf sich warten, während der Abgabetermin immer näher rückte. Anstatt die Zeit zu nutzen, die ihm noch blieb, fing er an sein Zimmer aufzuräumen und seinen Tag mit Aktivitäten zu füllen, die er sonst als weniger wichtig erachtete. Mit den Schultern zuckend erwidert Justus: „Ich wusste, dass die Zeit drängte und der Druck lastete immer stärker auf mir. Doch, was soll ich sagen, ich versuchte mir das schlechte Gewissen abzubauen, indem ich mich produktiv fühlte und andere Dinge erledigte.“  Bei ihm träten zwei verschiedene Stufen der Prokrastination auf, erklärte er uns. Bei der ersten Stufe sucht er sich ausreden und redet sich ein, dass er ja noch Zeit habe. Bei der zweiten sucht er ab einem gewissen Punkt Aufgaben zum Erledigen, um sich, einzuredener habe ja sowieso etwas anderes zu erledigen gehabt. Er konnte teilweisse nicht mehr ruhig schlafen und fühlte sich nicht mehr ausgeruht. Dies lag womöglich daran, dass er die Arbeit von seiner Freizeit kaum mehr trennen konnte, da ihm die Gedanken quälten mit dem schriftlichen Teil der Maturarbeit anzufangen. Die Maturarbeit konnte er auf den letzten Drücker noch rechtzeitig abgeben, doch die Qualität litt deutlich, betonte Justus. Menschen welche Probleme mit dem Prokrastinieren haben, rät Justus, sich einen realistischen Zeitplan zu erstellen und Pausen einzuplanen, welche motivierend wirken. 
+
+![Abbildung 2 ](bild1.jpg "Justus während dem Interview")
+
+*Amélie S., 15.04.2023*
 
 ## **Welche Auswirkungen bringt die Prokrastination mit sich?**
 
@@ -32,6 +44,10 @@ Die Gründe, weshalb manche zu starker Prokrastination tendieren, sind sehr indi
 „Bei leichtem Aufschieben ist eine Therapie noch nicht nötig. Es ist wichtig, Schritt für Schritt zu arbeiten und sich darauf zu konzentrieren, was man gerade am Machen ist und das andere erst in einem nächsten Schritt zu erledigen. Man sollte sich auf Dinge konzentrieren, die relevant sind. Je schneller man sich jedoch Hilfe holt, desto mehr kann man die Auswirkungen verringern“, berichtet R. Schweizer. 
 
 ## **Ablauf einer Prokrastination**
+
+![Grafik 1](bild3.png "Muster der Prokrastination")
+
+*iconel.de* 2023 [https://www.iconel.de/2021/02/01/aufgeschoben](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)[\-](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)[ist](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)[\-](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)[jetzt](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)[\-](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)[aufgehoben/](https://www.iconel.de/2021/02/01/aufgeschoben-ist-jetzt-aufgehoben/)
 
 Laut der Webseite www.iconel.de ist die Prokrastination ein berufsbezogenes Phänomen. Die Website schreibt: „Die Verkäuferin an der Supermarktkasse kann naturgemäss ihre Aufgaben nicht später machen. Es verläuft auch immer nach dem gleichen Muster, zunächst sind wir noch voller Euphorie, dann kommt „ach, es ist ja noch Zeit”, dann fangen wir vielleicht mal an und merken im letzten Drittel der Zeit, dass noch zwei Drittel der Arbeit zu erledigen ist und das jetzt knapp wird.“ (siehe Grafik 1) 
 
