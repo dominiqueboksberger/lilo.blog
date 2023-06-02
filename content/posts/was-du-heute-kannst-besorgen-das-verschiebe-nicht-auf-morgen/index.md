@@ -3,7 +3,7 @@ title = "«Was du heute kannst besorgen, das verschiebe nicht auf morgen.» "
 date = "2023-06-02"
 draft = true
 pinned = false
-tags = ["#Deutsch", "#Reportage"]
+tags = ["Deutsche", "Reportage"]
 description = ""
 +++
 Prokrastination, extremes Aufschieben, eine Störung der Selbststeuerung. Was ist das genau und wie kommt es dazu? Diesen und noch weiteren Fragen sind wir auf den Grund gegangen. Psychologe Roger Schweizer sowie Justus  äussern Ihr Wissen zugunsten dieser Reportage und teilen Ihre Erfahrungen.
