@@ -1,7 +1,7 @@
 +++
 title = "«Was du heute kannst besorgen, das verschiebe nicht auf morgen.» "
 date = "2023-06-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsche", "Reportage", "Prokrastination", "Lernen", "Aufschieben", "Schule", "Arbeit", "Studium", "Gymnasium", "Psychologie"]
 image = "nubelson-fernandes-xx4i6wg6heg-unsplash.jpg"
